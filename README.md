@@ -9,5 +9,6 @@
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-# Hey :wave:
+<h2>Hey</h2> :wave:
+<br/>
 I'm an Information Technology graduate from the Army Institute of Technology, Pune
