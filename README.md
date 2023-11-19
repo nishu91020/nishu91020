@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://medium.com/@rainishu111">
-    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 # Hey :wave:
